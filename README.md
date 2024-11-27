@@ -1,4 +1,4 @@
-<div class="masterhead-image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEN1yfT5GA-_MqrOVKcxOvW0migSishbw1gA&s" width="100%" height="300px"></div>
+<div class="masterhead-image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzzqIm6-db43QdiBLoypstdFsCVqZDiLtqNQ&s" width="100%" height="300px"></div>
 
 
 <h1 align="center">Hi 👋, I'm Aleeza</h1>
